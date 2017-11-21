@@ -42,7 +42,6 @@ public class JHipsterRegistryApp {
     public JHipsterRegistryApp(Environment env) {
         this.env = env;
     }
-
     /**
      * Initializes JHipsterRegistry.
      * <p>
